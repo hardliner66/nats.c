@@ -33,12 +33,23 @@ var NAVTREE =
     ] ],
     [ "Deprecated List", "deprecated.html", null ],
     [ "Modules", "modules.html", "modules" ],
+    [ "Packages", "namespaces.html", [
+      [ "Package List", "namespaces.html", "namespaces_dup" ],
+      [ "Package Members", "namespacemembers.html", [
+        [ "All", "namespacemembers.html", null ],
+        [ "Functions", "namespacemembers_func.html", null ],
+        [ "Typedefs", "namespacemembers_type.html", null ]
+      ] ]
+    ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
+      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
-        [ "Variables", "functions_vars.html", "functions_vars" ]
+        [ "Functions", "functions_func.html", "functions_func" ],
+        [ "Variables", "functions_vars.html", "functions_vars" ],
+        [ "Related Functions", "functions_rela.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
@@ -58,9 +69,13 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"group__libevent_functions.html#ga7ac99f326a59e5663ff66f5023c87091",
-"group__types_group.html#gga8650faf52b0b6b23df376eebeb9d0354a2c4a1e2b75f31dd69a89b541d75afa44",
-"structjs_consumer_config.html#a802ea3bf0669395bee28611f4ecede80"
+"classnats_1_1_msg.html#aa5b5c0361ee072448d5bd0ac3ddf376a",
+"classnats_1_1_statistics.html#affa97568917dd12a5d291a75f587025a",
+"classstan_1_1_msg.html#ad5efe1d443c7886cd3eb6d06561df69b",
+"group__conn_pub_group.html#gaafca9a8294e81a5a9979e762931e56c5",
+"group__stan_conn_pub_group.html",
+"nats_8hpp.html#ad2a7899b1a441d43fb038f9aa56ceae7",
+"structjs_consumer_info_list.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

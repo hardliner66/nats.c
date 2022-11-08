@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['oncompletecbcallback_0',['OnCompleteCBCallback',['../namespacenats.html#a240516a40dce366ad7948937c4cd06cd',1,'nats']]],
+  ['open_1',['Open',['../namespacenats.html#aa1fb86d8dd8bb4b4b6812e9a7e208400',1,'nats']]],
+  ['operator_20const_20natsconnection_20_2a_2',['operator const natsConnection *',['../classnats_1_1_connection.html#a67a446d6a36af25656e5e2d2ef5c0a97',1,'nats::Connection']]],
+  ['operator_20const_20natsinbox_20_2a_3',['operator const natsInbox *',['../classnats_1_1_inbox.html#ac4ab9b428ad2d7eedc3e4f99bfe71be9',1,'nats::Inbox']]],
+  ['operator_20const_20natsmsg_20_2a_4',['operator const natsMsg *',['../classnats_1_1_msg.html#a82c23b06c8c8b555767047aa8cc59b40',1,'nats::Msg']]],
+  ['operator_20const_20natsoptions_20_2a_5',['operator const natsOptions *',['../classnats_1_1_options.html#a305df53a856569621c2a1e0055ca434d',1,'nats::Options']]],
+  ['operator_20const_20natsstatistics_20_2a_6',['operator const natsStatistics *',['../classnats_1_1_statistics.html#aaceb9a8766fdd020a56e9956da4a8f3d',1,'nats::Statistics']]],
+  ['operator_20const_20natssubscription_20_2a_7',['operator const natsSubscription *',['../classnats_1_1_subscription.html#a478e3679a1d04c636af8dfa6a2b18d1d',1,'nats::Subscription']]],
+  ['operator_20const_20stanconnection_20_2a_8',['operator const stanConnection *',['../classstan_1_1_connection.html#afc3f610ae989b7bd31810e82a21301c9',1,'stan::Connection']]],
+  ['operator_20const_20stanconnoptions_20_2a_9',['operator const stanConnOptions *',['../classstan_1_1_conn_options.html#a372de6cc0fbf19f606c3d31ca08a188f',1,'stan::ConnOptions']]],
+  ['operator_20const_20stanmsg_20_2a_10',['operator const stanMsg *',['../classstan_1_1_msg.html#a3887a77df1eb5ad8804de34ccdfcdba3',1,'stan::Msg']]],
+  ['operator_20const_20stansuboptions_20_2a_11',['operator const stanSubOptions *',['../classstan_1_1_sub_options.html#a92711987cc408546245aaf4809c554a4',1,'stan::SubOptions']]],
+  ['operator_20const_20stansubscription_20_2a_12',['operator const stanSubscription *',['../classstan_1_1_subscription.html#a840654d252ad85edaa36e98ef67a50e1',1,'stan::Subscription']]],
+  ['operator_20natsconnection_20_2a_13',['operator natsConnection *',['../classnats_1_1_connection.html#a790412007052d7ec731d7d198d0ea649',1,'nats::Connection']]],
+  ['operator_20natsinbox_20_2a_14',['operator natsInbox *',['../classnats_1_1_inbox.html#af0d572c8c0dd0694ed9e0c77c6c8a3fc',1,'nats::Inbox']]],
+  ['operator_20natsmsg_20_2a_15',['operator natsMsg *',['../classnats_1_1_msg.html#af59fbdb5baa91eea91ca7b3b47314ac7',1,'nats::Msg']]],
+  ['operator_20natsoptions_20_2a_16',['operator natsOptions *',['../classnats_1_1_options.html#a1c7fc82a3b4458dffb1fccd2b8bd50c9',1,'nats::Options']]],
+  ['operator_20natsstatistics_20_2a_17',['operator natsStatistics *',['../classnats_1_1_statistics.html#a246a20975f6825b3fd4d9cd431ac01cb',1,'nats::Statistics']]],
+  ['operator_20natssubscription_20_2a_18',['operator natsSubscription *',['../classnats_1_1_subscription.html#ae74cb045a5e2144c89f97fd13ade5d6f',1,'nats::Subscription']]],
+  ['operator_20stanconnection_20_2a_19',['operator stanConnection *',['../classstan_1_1_connection.html#a658023ea00795473451cf9bac4db6503',1,'stan::Connection']]],
+  ['operator_20stanconnoptions_20_2a_20',['operator stanConnOptions *',['../classstan_1_1_conn_options.html#af81a2be5a1e12efe84d57ac1dbceebb1',1,'stan::ConnOptions']]],
+  ['operator_20stanmsg_20_2a_21',['operator stanMsg *',['../classstan_1_1_msg.html#a4aaeb1c98a01f68f69e225291478b7e2',1,'stan::Msg']]],
+  ['operator_20stansuboptions_20_2a_22',['operator stanSubOptions *',['../classstan_1_1_sub_options.html#aff4de99e91f1df4d837ac5e0e3df3d3e',1,'stan::SubOptions']]],
+  ['operator_20stansubscription_20_2a_23',['operator stanSubscription *',['../classstan_1_1_subscription.html#a3187fc293a4e4c7a3457eb5ee98837d0',1,'stan::Subscription']]],
+  ['options_24',['Options',['../classnats_1_1_options.html#abde9c3753e1c52f578d0f2ea401f46c5',1,'nats::Options::Options(natsOptions *ptr)'],['../classnats_1_1_options.html#a1c3c4eeb871e41af8003b6077c6da1dd',1,'nats::Options::Options(Options &amp;&amp;other)'],['../classnats_1_1_options.html#aab9ad4a66f476af6980fb5625407ed3d',1,'nats::Options::Options()']]]
+];

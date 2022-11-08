@@ -11,7 +11,7 @@ var searchData=
   ['deliversubject_8',['DeliverSubject',['../structjs_consumer_config.html#a95aa4184ed77f69b7674756572da1ded',1,'jsConsumerConfig']]],
   ['denydelete_9',['DenyDelete',['../structjs_stream_config.html#af2d42dd29b9a35257937aeeb53c9f287',1,'jsStreamConfig']]],
   ['denypurge_10',['DenyPurge',['../structjs_stream_config.html#a575ffbaa85b0300032963296b090583a',1,'jsStreamConfig']]],
-  ['description_11',['Description',['../structjs_stream_config.html#a4f9f422d2e9e7389860291ab19bd7f10',1,'jsStreamConfig::Description()'],['../structjs_consumer_config.html#a36a14d666d99bdade87a5e21a25491d6',1,'jsConsumerConfig::Description()'],['../structkv_config.html#a941e9cad2bab67f093bf4d9567b4749a',1,'kvConfig::Description()']]],
+  ['description_11',['Description',['../structjs_consumer_config.html#a36a14d666d99bdade87a5e21a25491d6',1,'jsConsumerConfig::Description()'],['../structkv_config.html#a941e9cad2bab67f093bf4d9567b4749a',1,'kvConfig::Description()'],['../structjs_stream_config.html#a4f9f422d2e9e7389860291ab19bd7f10',1,'jsStreamConfig::Description()']]],
   ['destination_12',['Destination',['../structjs_re_publish.html#a662b2e57d237b171b2b61509f7e1023a',1,'jsRePublish']]],
   ['discard_13',['Discard',['../structjs_stream_config.html#a0b44ea5251ef20bf5b5658bcfbea832d',1,'jsStreamConfig']]],
   ['discardnewpersubject_14',['DiscardNewPerSubject',['../structjs_stream_config.html#a3fb7d5e1a09829fe742749da880afe4a',1,'jsStreamConfig']]],

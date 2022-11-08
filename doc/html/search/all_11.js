@@ -1,9 +1,8 @@
 var searchData=
 [
-  ['ratelimit_0',['RateLimit',['../structjs_consumer_config.html#a351b388a36ccb7978e6e85a6f4fc0816',1,'jsConsumerConfig']]],
-  ['replaypolicy_1',['ReplayPolicy',['../structjs_consumer_config.html#ade510daf7c5d67553d2cd20b64ab9939',1,'jsConsumerConfig']]],
-  ['replicas_2',['Replicas',['../structjs_stream_config.html#adbf2c948cf8091b149603b918ef49ffc',1,'jsStreamConfig::Replicas()'],['../structjs_cluster_info.html#a8dfcae3bc348a5b595b509e3f3d3500b',1,'jsClusterInfo::Replicas()'],['../structjs_consumer_config.html#acfba6d6ecb6323fd8ffe6c0bb4fbffae',1,'jsConsumerConfig::Replicas()'],['../structkv_config.html#a48f0f70383eff868321f9c94ae1a87cd',1,'kvConfig::Replicas()']]],
-  ['replicaslen_3',['ReplicasLen',['../structjs_cluster_info.html#a237a639579def1345e02f1490a510ed5',1,'jsClusterInfo']]],
-  ['republish_4',['RePublish',['../structjs_stream_config.html#a95ab0061b6e935b129a4a9c133e6b11c',1,'jsStreamConfig::RePublish()'],['../structkv_config.html#ae172d3e442eef1a57cd7cf266d9e8951',1,'kvConfig::RePublish()']]],
-  ['retention_5',['Retention',['../structjs_stream_config.html#a5ebc95b76afafa5e7a129953ba1bb3c7',1,'jsStreamConfig']]]
+  ['queue_0',['Queue',['../structjs_sub_options.html#aaf4b620d112a31f51a20389c5405805d',1,'jsSubOptions']]],
+  ['queuedmsgs_1',['QueuedMsgs',['../classnats_1_1_subscription.html#a633e05174d02a689a90919c8cfe47e18',1,'nats::Subscription']]],
+  ['queuesubscribe_2',['QueueSubscribe',['../classnats_1_1_connection.html#a05f28cfe858f67306f8fd6e2d98fc13a',1,'nats::Connection::QueueSubscribe(const char *subject, const char *queueGroup, natsMsgHandler cb, void *cbClosure)'],['../classnats_1_1_connection.html#a2ad0516f5e8fba02ffe3941a65b14154',1,'nats::Connection::QueueSubscribe(const char *subject, const char *queueGroup, T1 *cbClosure)'],['../classstan_1_1_connection.html#a90d4b2598e29e0ae8050f046a3e63e38',1,'stan::Connection::QueueSubscribe(const char *channel, const char *queueGroup, stanMsgHandler cb, void *cbClosure, stanSubOptions *options)'],['../classstan_1_1_connection.html#afd5143c50a9c5c7ac92bbd1fc574ff1b',1,'stan::Connection::QueueSubscribe(const char *channel, const char *queueGroup, T1 *cbClosure, stanSubOptions *options)']]],
+  ['queuesubscribesync_3',['QueueSubscribeSync',['../classnats_1_1_connection.html#af2e47a6e46a47e03420c49752db05eff',1,'nats::Connection']]],
+  ['queuesubscribetimeout_4',['QueueSubscribeTimeout',['../classnats_1_1_connection.html#af90bef386aa21bf6081e98d98403a431',1,'nats::Connection::QueueSubscribeTimeout(const char *subject, const char *queueGroup, int64_t timeout, natsMsgHandler cb, void *cbClosure)'],['../classnats_1_1_connection.html#a4098a5860ca46709750265b2c0ab484f',1,'nats::Connection::QueueSubscribeTimeout(const char *subject, const char *queueGroup, int64_t timeout, T1 *cbClosure)']]]
 ];

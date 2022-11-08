@@ -1,0 +1,27 @@
+var classstan_1_1_sub_options =
+[
+    [ "WithoutDestuction", "classstan_1_1_sub_options_1_1_without_destuction.html", "classstan_1_1_sub_options_1_1_without_destuction" ],
+    [ "SubOptions", "classstan_1_1_sub_options.html#a2c7d2a094634b3bea935cf97bf9228d3", null ],
+    [ "SubOptions", "classstan_1_1_sub_options.html#a1a7fc8e0cf486850e745f979f657c098", null ],
+    [ "SubOptions", "classstan_1_1_sub_options.html#a48b5c5ef6aadfb5d599c7914d96ce1d1", null ],
+    [ "~SubOptions", "classstan_1_1_sub_options.html#a349ff8b4a6261b94b3adbc5f86d1a40c", null ],
+    [ "SetDurableName", "classstan_1_1_sub_options.html#a033f54c0a109ccdd59be5bc7f3f9743b", null ],
+    [ "SetAckWait", "classstan_1_1_sub_options.html#a8616fe5a103f9f2dc075c113da17ac3b", null ],
+    [ "SetMaxInflight", "classstan_1_1_sub_options.html#a3d4940002ab4a180db5c60ccdaa28afb", null ],
+    [ "StartAtSequence", "classstan_1_1_sub_options.html#a42a07496e17b02b1db35b0356718ee15", null ],
+    [ "StartAtTime", "classstan_1_1_sub_options.html#a9a0e1a0a1c608789d16a24e57836a1e3", null ],
+    [ "StartAtTimeDelta", "classstan_1_1_sub_options.html#aba7c9f14c1a9c8c49602db92ffc26de9", null ],
+    [ "StartWithLastReceived", "classstan_1_1_sub_options.html#a6a0c118e55cd8e6979659cf4e1a2e401", null ],
+    [ "DeliverAllAvailable", "classstan_1_1_sub_options.html#a9a383cd2165dfd409d86253d2d94d1b4", null ],
+    [ "SetManualAckMode", "classstan_1_1_sub_options.html#a5f42cb4a468b605c6ea45192c118df47", null ],
+    [ "operator const stanSubOptions *", "classstan_1_1_sub_options.html#a92711987cc408546245aaf4809c554a4", null ],
+    [ "operator stanSubOptions *", "classstan_1_1_sub_options.html#aff4de99e91f1df4d837ac5e0e3df3d3e", null ],
+    [ "Release", "classstan_1_1_sub_options.html#ae7b496dc341222116d01ffc8470db9f9", null ],
+    [ "Connection", "classstan_1_1_sub_options.html#a54a11fdc71e1679a42fa0c0e3856673d", null ],
+    [ "Subscription", "classstan_1_1_sub_options.html#a597a7aa61d5ffb2f156683100a4f8a8e", null ],
+    [ "Msg", "classstan_1_1_sub_options.html#a810266fc16ba16fe9efe4497b5e8a290", null ],
+    [ "ConnOptions", "classstan_1_1_sub_options.html#ab7466c539c8d4844fcf664283b99e9ae", null ],
+    [ "PubAckHandlerCallback", "classstan_1_1_sub_options.html#a8a4e22235c963c62e9eb7639e70bb68a", null ],
+    [ "MsgHandlerCallback", "classstan_1_1_sub_options.html#a21605ac8a1d3ff30857db019d5154f84", null ],
+    [ "ConnectionLostHandlerCallback", "classstan_1_1_sub_options.html#aa876da5264aa457f22727e6173744028", null ]
+];

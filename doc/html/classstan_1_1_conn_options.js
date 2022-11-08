@@ -1,0 +1,27 @@
+var classstan_1_1_conn_options =
+[
+    [ "WithoutDestuction", "classstan_1_1_conn_options_1_1_without_destuction.html", "classstan_1_1_conn_options_1_1_without_destuction" ],
+    [ "ConnOptions", "classstan_1_1_conn_options.html#aa1883f3428ccf3ab4105efcd7ebc6cf7", null ],
+    [ "ConnOptions", "classstan_1_1_conn_options.html#ac447a8a465033b6bbc85b4ad3fd8095c", null ],
+    [ "ConnOptions", "classstan_1_1_conn_options.html#a6ba0b961176e823ea4ba562dc34b622c", null ],
+    [ "~ConnOptions", "classstan_1_1_conn_options.html#a3266c7aee5bf285c20858227be7cb958", null ],
+    [ "SetURL", "classstan_1_1_conn_options.html#aca4d611e10c083772425c8b03c8532de", null ],
+    [ "SetNATSOptions", "classstan_1_1_conn_options.html#a100ee95dcd8eef3b4d8313cd6af0df5b", null ],
+    [ "SetConnectionWait", "classstan_1_1_conn_options.html#aa4f0346f2afcf36c83907041b9fe604a", null ],
+    [ "SetPubAckWait", "classstan_1_1_conn_options.html#a74b8316c1f37b0a3fe5ab2cb7666a31b", null ],
+    [ "SetDiscoveryPrefix", "classstan_1_1_conn_options.html#a279bb4bc23fb2f025b109c6794874c62", null ],
+    [ "SetMaxPubAcksInflight", "classstan_1_1_conn_options.html#a2bda44416d78055dc1497b661718f85f", null ],
+    [ "SetPings", "classstan_1_1_conn_options.html#a57b5c2f9bb6606c660dec0335b1b6f4e", null ],
+    [ "SetConnectionLostHandler", "classstan_1_1_conn_options.html#a8d3452455cd5dce57c0b0a7f38c54179", null ],
+    [ "SetConnectionLostHandler", "classstan_1_1_conn_options.html#afcdef66093f75272edf74916cf971d14", null ],
+    [ "operator const stanConnOptions *", "classstan_1_1_conn_options.html#a372de6cc0fbf19f606c3d31ca08a188f", null ],
+    [ "operator stanConnOptions *", "classstan_1_1_conn_options.html#af81a2be5a1e12efe84d57ac1dbceebb1", null ],
+    [ "Release", "classstan_1_1_conn_options.html#a3a18a707694b83cd66a052e4f1a266e8", null ],
+    [ "Connection", "classstan_1_1_conn_options.html#a54a11fdc71e1679a42fa0c0e3856673d", null ],
+    [ "Subscription", "classstan_1_1_conn_options.html#a597a7aa61d5ffb2f156683100a4f8a8e", null ],
+    [ "Msg", "classstan_1_1_conn_options.html#a810266fc16ba16fe9efe4497b5e8a290", null ],
+    [ "SubOptions", "classstan_1_1_conn_options.html#a4551ba68be766a815e36c5fe09cfae61", null ],
+    [ "PubAckHandlerCallback", "classstan_1_1_conn_options.html#a8a4e22235c963c62e9eb7639e70bb68a", null ],
+    [ "MsgHandlerCallback", "classstan_1_1_conn_options.html#a21605ac8a1d3ff30857db019d5154f84", null ],
+    [ "ConnectionLostHandlerCallback", "classstan_1_1_conn_options.html#aa876da5264aa457f22727e6173744028", null ]
+];

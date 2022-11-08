@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['queuedmsgs_0',['QueuedMsgs',['../classnats_1_1_subscription.html#a633e05174d02a689a90919c8cfe47e18',1,'nats::Subscription']]],
+  ['queuesubscribe_1',['QueueSubscribe',['../classnats_1_1_connection.html#a05f28cfe858f67306f8fd6e2d98fc13a',1,'nats::Connection::QueueSubscribe(const char *subject, const char *queueGroup, natsMsgHandler cb, void *cbClosure)'],['../classnats_1_1_connection.html#a2ad0516f5e8fba02ffe3941a65b14154',1,'nats::Connection::QueueSubscribe(const char *subject, const char *queueGroup, T1 *cbClosure)'],['../classstan_1_1_connection.html#a90d4b2598e29e0ae8050f046a3e63e38',1,'stan::Connection::QueueSubscribe(const char *channel, const char *queueGroup, stanMsgHandler cb, void *cbClosure, stanSubOptions *options)'],['../classstan_1_1_connection.html#afd5143c50a9c5c7ac92bbd1fc574ff1b',1,'stan::Connection::QueueSubscribe(const char *channel, const char *queueGroup, T1 *cbClosure, stanSubOptions *options)']]],
+  ['queuesubscribesync_2',['QueueSubscribeSync',['../classnats_1_1_connection.html#af2e47a6e46a47e03420c49752db05eff',1,'nats::Connection']]],
+  ['queuesubscribetimeout_3',['QueueSubscribeTimeout',['../classnats_1_1_connection.html#af90bef386aa21bf6081e98d98403a431',1,'nats::Connection::QueueSubscribeTimeout(const char *subject, const char *queueGroup, int64_t timeout, natsMsgHandler cb, void *cbClosure)'],['../classnats_1_1_connection.html#a4098a5860ca46709750265b2c0ab484f',1,'nats::Connection::QueueSubscribeTimeout(const char *subject, const char *queueGroup, int64_t timeout, T1 *cbClosure)']]]
+];

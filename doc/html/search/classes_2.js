@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['natsmsglist_0',['natsMsgList',['../structnats_msg_list.html',1,'']]]
+  ['inbox_0',['Inbox',['../classnats_1_1_inbox.html',1,'nats']]]
 ];

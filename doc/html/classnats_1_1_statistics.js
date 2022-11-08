@@ -1,0 +1,25 @@
+var classnats_1_1_statistics =
+[
+    [ "WithoutDestuction", "classnats_1_1_statistics_1_1_without_destuction.html", "classnats_1_1_statistics_1_1_without_destuction" ],
+    [ "Statistics", "classnats_1_1_statistics.html#a7c548eaed6962ecd440e52a2544a0daa", null ],
+    [ "Statistics", "classnats_1_1_statistics.html#aaf41909e5444c873a30bb1a614bf0cdf", null ],
+    [ "Statistics", "classnats_1_1_statistics.html#affa97568917dd12a5d291a75f587025a", null ],
+    [ "~Statistics", "classnats_1_1_statistics.html#a09ad4864495e20eae76fcd7b77460317", null ],
+    [ "GetCounts", "classnats_1_1_statistics.html#a0e9e2b2833f236fd90428e85561df284", null ],
+    [ "operator const natsStatistics *", "classnats_1_1_statistics.html#aaceb9a8766fdd020a56e9956da4a8f3d", null ],
+    [ "operator natsStatistics *", "classnats_1_1_statistics.html#a246a20975f6825b3fd4d9cd431ac01cb", null ],
+    [ "Release", "classnats_1_1_statistics.html#a19939e6f7a63b744c7e8daa0e3de1173", null ],
+    [ "Connection", "classnats_1_1_statistics.html#a54a11fdc71e1679a42fa0c0e3856673d", null ],
+    [ "Subscription", "classnats_1_1_statistics.html#a597a7aa61d5ffb2f156683100a4f8a8e", null ],
+    [ "Msg", "classnats_1_1_statistics.html#a810266fc16ba16fe9efe4497b5e8a290", null ],
+    [ "Options", "classnats_1_1_statistics.html#abfa275a2475993fcbc4c531048fac09a", null ],
+    [ "Inbox", "classnats_1_1_statistics.html#af72c968816d56ec1ba6b358450eb81e2", null ],
+    [ "MsgHandlerCallback", "classnats_1_1_statistics.html#af3526ebb81c168827e4748f31ce39373", null ],
+    [ "ConnectionHandlerCallback", "classnats_1_1_statistics.html#a03941065ddf4bef77f9e09cfa8edd119", null ],
+    [ "ErrHandlerCallback", "classnats_1_1_statistics.html#a38f88dfd24734a411abdf424db654363", null ],
+    [ "UserJWTHandlerCallback", "classnats_1_1_statistics.html#a8df534cafaae857dd13aa8f5856a35bc", null ],
+    [ "SignatureHandlerCallback", "classnats_1_1_statistics.html#a11421374dce48601501146f118d06d4b", null ],
+    [ "TokenHandlerCallback", "classnats_1_1_statistics.html#aab97c51e3ca59820939dcaf3a1c0de04", null ],
+    [ "OnCompleteCBCallback", "classnats_1_1_statistics.html#a9b82561159e6296c0d8e3cc926d826d4", null ],
+    [ "CustomReconnectDelayHandlerCallback", "classnats_1_1_statistics.html#a4cb3763c8695b4128f7057078d2c7699", null ]
+];

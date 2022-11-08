@@ -1,5 +1,21 @@
 var annotated_dup =
 [
+    [ "nats", "namespacenats.html", [
+      [ "Connection", "classnats_1_1_connection.html", "classnats_1_1_connection" ],
+      [ "Exception", "classnats_1_1_exception.html", "classnats_1_1_exception" ],
+      [ "Inbox", "classnats_1_1_inbox.html", "classnats_1_1_inbox" ],
+      [ "Msg", "classnats_1_1_msg.html", "classnats_1_1_msg" ],
+      [ "Options", "classnats_1_1_options.html", "classnats_1_1_options" ],
+      [ "Statistics", "classnats_1_1_statistics.html", "classnats_1_1_statistics" ],
+      [ "Subscription", "classnats_1_1_subscription.html", "classnats_1_1_subscription" ]
+    ] ],
+    [ "stan", "namespacestan.html", [
+      [ "Connection", "classstan_1_1_connection.html", "classstan_1_1_connection" ],
+      [ "ConnOptions", "classstan_1_1_conn_options.html", "classstan_1_1_conn_options" ],
+      [ "Msg", "classstan_1_1_msg.html", "classstan_1_1_msg" ],
+      [ "SubOptions", "classstan_1_1_sub_options.html", "classstan_1_1_sub_options" ],
+      [ "Subscription", "classstan_1_1_subscription.html", "classstan_1_1_subscription" ]
+    ] ],
     [ "jsAccountInfo", "structjs_account_info.html", "structjs_account_info" ],
     [ "jsAccountLimits", "structjs_account_limits.html", "structjs_account_limits" ],
     [ "jsAPIStats", "structjs_a_p_i_stats.html", "structjs_a_p_i_stats" ],
